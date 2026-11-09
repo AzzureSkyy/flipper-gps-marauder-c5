@@ -1,0 +1,3 @@
+flipper_app/dist/debug/
+flipper_app/.vscode/
+*.elf
